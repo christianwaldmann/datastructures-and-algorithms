@@ -2,15 +2,15 @@
 
 ## Implemented
 
-|category| concept |
-|---|---------|
-|sorting|bubble sort|
+| category | concept |
+|----------|---------|
+| sorting  |bubble sort|
+|          |selection sort|
 
 
 ## Not implemented yet
 | category | concept        |
 |----------|----------------|
-| sorting  | selection sort |
-|          | insertion sort |
+| sorting  | insertion sort |
 |          | merge sort     |
 |          | quick sort     |
