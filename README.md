@@ -7,10 +7,10 @@
 | sorting  |bubble sort|
 |          |selection sort|
 |          |insertion sort|
+|          |merge sort|
 
 
 ## Not implemented yet
 | category | concept    |
 |----------|------------|
-| sorting  | merge sort |
-|          | quick sort |
+| sorting  | quick sort |
