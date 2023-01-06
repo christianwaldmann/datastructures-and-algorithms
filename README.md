@@ -8,9 +8,10 @@
 |          |selection sort|
 |          |insertion sort|
 |          |merge sort|
+|          |quick sort|
 
 
 ## Not implemented yet
-| category | concept    |
-|----------|------------|
-| sorting  | quick sort |
+| category | concept |
+|----------|------|
+|   |  |
