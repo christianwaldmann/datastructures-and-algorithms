@@ -6,11 +6,11 @@
 |----------|---------|
 | sorting  |bubble sort|
 |          |selection sort|
+|          |insertion sort|
 
 
 ## Not implemented yet
-| category | concept        |
-|----------|----------------|
-| sorting  | insertion sort |
-|          | merge sort     |
-|          | quick sort     |
+| category | concept    |
+|----------|------------|
+| sorting  | merge sort |
+|          | quick sort |
