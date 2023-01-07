@@ -12,6 +12,13 @@
 | merge sort     | sort values in list |
 | quick sort     | sort values in list |
 
+### Searching
+
+| algorithm     | description                    |
+|---------------|--------------------------------|
+| linear search | search value in unordered list |
+| binary search | search value in ordered list   |
+
 
 ## Data Structures
 
@@ -21,13 +28,6 @@ None yet
 # Not implemented yet
 
 ## Algorithms
-
-### Searching
-
-| algorithm     | description                    |
-|---------------|--------------------------------|
-| linear search | search value in unordered list |
-| binary search | search value in ordered list   |
 
 
 ### Graphs
