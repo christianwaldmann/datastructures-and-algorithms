@@ -23,7 +23,8 @@
 
 | algorithm            | description                   |
 |----------------------|-------------------------------|
-| breadth-first search | shortest path to target node |
+| breadth-first search | shortest path to target node  |
+| dijkstra             | shortest path to target node  |
 
 
 ## Data Structures
@@ -45,16 +46,14 @@ None yet
 
 ### Graphs
 
-| algorithm            | description                   |
-|----------------------|-------------------------------|
+| algorithm            | description                  |
+|----------------------|------------------------------|
 | depth-first search   | shortest path to target node |
-| breadth-first search | shortest path to target node |
-| dijkstra             | shortest path to target node  |
-| A*                   | shortest path to target node  |
-| Bellman-Ford         | shortest paths to all nodes   |
-| Ford-Fulkerson       | maximum flow                  |
-| Kruskal              | minimum spanning tree         |
-| Prim                 | minimum spanning tree         |
+| A*                   | shortest path to target node |
+| Bellman-Ford         | shortest paths to all nodes  |
+| Ford-Fulkerson       | maximum flow                 |
+| Kruskal              | minimum spanning tree        |
+| Prim                 | minimum spanning tree        |
 
 
 ## Data Structures
