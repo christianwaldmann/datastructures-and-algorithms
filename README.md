@@ -19,6 +19,12 @@
 | linear search | search value in unordered list |
 | binary search | search value in ordered list   |
 
+### Graphs
+
+| algorithm            | description                   |
+|----------------------|-------------------------------|
+| breadth-first search | shortest path to target node |
+
 
 ## Data Structures
 
@@ -41,8 +47,8 @@ None yet
 
 | algorithm            | description                   |
 |----------------------|-------------------------------|
-| depth-first search   | find node with specific value |
-| breadth-first search | find node with specific value |
+| depth-first search   | shortest path to target node |
+| breadth-first search | shortest path to target node |
 | dijkstra             | shortest path to target node  |
 | A*                   | shortest path to target node  |
 | Bellman-Ford         | shortest paths to all nodes   |

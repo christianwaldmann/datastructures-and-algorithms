@@ -9,7 +9,7 @@ class Graph(ABC):
         pass
 
     @abstractmethod
-    def add_edge(self, start_node_name, end_node_name, value):
+    def add_edge(self, start_node_name, end_node_name, value, bidirectional):
         pass
 
     @abstractmethod
@@ -53,10 +53,12 @@ class GraphAdjacencyMatrix(Graph):
         self.nodes[node_name] = self.nodes_index
         self.nodes_index += 1
 
-    def add_edge(self, start_node_name, end_node_name, value=1):
+    def add_edge(self, start_node_name, end_node_name, value=1, bidirectional=False):
         start_node_index = self.nodes[start_node_name]
         end_node_index = self.nodes[end_node_name]
         self.data[start_node_index][end_node_index] = value
+        if bidirectional:
+            self.data[end_node_index][start_node_index] = value
 
     def get_edge(self, start_node_name, end_node_name):
         start_node_index = self.nodes[start_node_name]
