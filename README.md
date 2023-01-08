@@ -22,6 +22,13 @@
 
 ## Data Structures
 
+| data structure | description                                     |
+|----------------|-------------------------------------------------|
+| graph          | adjacency matrix                                |
+
+
+## Data Structures
+
 None yet
 
 
@@ -48,7 +55,6 @@ None yet
 
 | data structure | description                                     |
 |----------------|-------------------------------------------------|
-| graph          | adjacency matrix                                |
 | graph          | adjacency list                                  |
 | hash table     | dictionary / key-value pairs                    |
 | tree           | tree structure                                  |
